@@ -67,3 +67,15 @@ function branchFunc7() { console.log('Branch function 7'); }
 function branchFunc8() { console.log('Branch function 8'); }
 function branchFunc9() { console.log('Branch function 9'); }
 function branchFunc10() { console.log('Branch function 10'); }
+
+// Conflicting changes on main
+function mainFunc1() { console.log('Main function 1'); }
+function mainFunc2() { console.log('Main function 2'); }
+function mainFunc3() { console.log('Main function 3'); }
+function mainFunc4() { console.log('Main function 4'); }
+function mainFunc5() { console.log('Main function 5'); }
+function mainFunc6() { console.log('Main function 6'); }
+function mainFunc7() { console.log('Main function 7'); }
+function mainFunc8() { console.log('Main function 8'); }
+function mainFunc9() { console.log('Main function 9'); }
+function mainFunc10() { console.log('Main function 10'); }
