@@ -41,8 +41,6 @@ for (let i = 1; i <= 100; i++) {
 }
 
 // Dummy functions for practice
-EOF
-
 # Append repeated dummy functions to reach ~500 lines
 for i in $(seq 1 50); do
     echo "function doSomething${i}() { console.log('Doing something ${i}'); }" >> bigfile.ts
