@@ -60,3 +60,5 @@ manager.addTodo("Practice rebasing branches");
 manager.toggleTodo(1);
 
 console.log(manager.listTodos());
+
+// test 1 2 3
