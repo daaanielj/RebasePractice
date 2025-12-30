@@ -77,3 +77,4 @@ function mainFunc7() { console.log('Main function 7'); }
 function mainFunc8() { console.log('Main function 8'); }
 function mainFunc9() { console.log('Main function 9'); }
 function mainFunc10() { console.log('Main function 10'); }
+function mainFunc12() { console.log('Main function 10'); }
