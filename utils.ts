@@ -42,6 +42,10 @@ export class TodoManager {
       const todo = this.todos.find(todo => todo.id === id);
       if (todo) todo.completed = !todo.completed;
   }
+  toggleTodo(id: number) {
+      const todo = this.todos.find(todo => todo.id === id);
+      if (todo) todo.completed = !todo.completed;
+  }
 
   listTodos(): Todo[] {
       return this.todos;
